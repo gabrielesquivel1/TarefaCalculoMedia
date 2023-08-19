@@ -16,12 +16,21 @@ Este projeto consiste em uma calculadora de média que permite calcular a média
 - Calcula a média de quatro notas.
 - Exibe a média calculada.
 
+ ## Contribuição
+
+-O projeto tem como objetivo o desenvolvimento pessoal, conhecendo assim os conceitos da linguagem Java.
+-Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests com melhorias, correções de bugs, novas funcionalidades ou sugestões de melhorias.
+
 ## Exemplo de Uso
 
 ```java
 public class CalculoMedia {
+ˋ
 
     public static void main(String[] args) {
         Media m = new Media();
     }
 }
+```
+Desenvolvido por Gabriel Esquivel.
+
